@@ -1,4 +1,4 @@
 # rsschool-cv
 
 
-https://KateHubar.github.io/rsschool-cv/cv
+https://KateHubar.github.io/rsschool-cv
