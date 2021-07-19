@@ -1,4 +1,4 @@
-header h1 {
+header h2{
     margin-top: 24px;
     padding-bottom: 0.3em;
     border-bottom: 1px solid #eaecef;
@@ -14,7 +14,7 @@ main, footer {
     display: flex;
 }
 
-main h2 {
+main h3 {
     margin: 0;
 }
 
@@ -22,13 +22,12 @@ main h2 {
     padding: 0 15px;
 }
 
-blockquote {
+  article, p {
     margin-top: 0;
     margin-left: 0;
     margin-bottom: 16px;
     padding: 0 1em;
-    color: #6a737d;
-    border-left: 0.25em solid #dfe2e5;
+    
 }
 footer {
     width: 800px;
