@@ -1,0 +1,41 @@
+header h2{
+    margin-top: 24px;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid #eaecef;
+    line-height: 1.25;
+    text-align: center;
+    font-size: 2em;
+    font-weight: 600;
+}
+
+main, footer {
+    width: 800px;
+    margin: auto;
+    display: flex;
+}
+
+main h3 {
+    margin: 0;
+}
+
+.personal-information {
+    padding: 0 15px;
+}
+
+  article, p {
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 16px;
+    padding: 0 1em;
+    
+}
+footer {
+    width: 800px;
+    padding-top: 100px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.socials > a {
+    margin-right: 20px;
+}
