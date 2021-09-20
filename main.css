@@ -1,4 +1,4 @@
-header h2{
+header h2 {
     margin-top: 24px;
     padding-bottom: 0.3em;
     border-bottom: 1px solid #eaecef;
@@ -8,7 +8,8 @@ header h2{
     font-weight: 600;
 }
 
-main, footer {
+main,
+footer {
     width: 800px;
     margin: auto;
     display: flex;
@@ -22,13 +23,14 @@ main h3 {
     padding: 0 15px;
 }
 
-  article, p {
+article,
+p {
     margin-top: 0;
     margin-left: 0;
     margin-bottom: 16px;
     padding: 0 1em;
-    
 }
+
 footer {
     width: 800px;
     padding-top: 100px;
@@ -36,6 +38,6 @@ footer {
     justify-content: space-between;
 }
 
-.socials > a {
+.socials>a {
     margin-right: 20px;
 }
